@@ -21,7 +21,7 @@ function ReadViewListItem({ item }) {
           alt={item.writerId}
         />
         <p>
-          {`by`}
+          {`by `}
           <span className="bold">{item.writerId}</span>
         </p>
         <p>{item.likeCount}</p>
