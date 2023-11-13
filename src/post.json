@@ -1,0 +1,47 @@
+[
+    {
+        "writerId" : "1",
+        "title" : "react",
+        "desc" : "about react",
+        "content" : "reactreactreactreact",
+        "apoDate" : "2023",
+        "replyCount" : 1,
+        "likeCount" : 1,
+        "writerProfile" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg",
+        "tag" : "[react, front]",
+        "isPublic" : true,
+        "thumbnail" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg"
+        
+
+    },
+    {
+        "writerId" : "2",
+        "title" : "spring",
+        "desc" : "about spring",
+        "content" : "springspringspringspring",
+        "apoDate" : "2022",
+        "replyCount" : 2,
+        "likeCount" : 2,
+        "writerProfile" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg",
+        "tag" : "[spring, back]",
+        "isPublic" : true,
+        "thumbnail" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg"
+        
+
+    },
+    {
+        "writerId" : "3",
+        "title" : "js",
+        "desc" : "about js",
+        "content" : "jsjsjsjsjsjsjsjsjs",
+        "apoDate" : "2021",
+        "replyCount" : 3,
+        "likeCount" : 3,
+        "writerProfile" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg",
+        "tag" : "[js, front]",
+        "isPublic" : true,
+        "thumbnail" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg"
+        
+
+    }
+]
