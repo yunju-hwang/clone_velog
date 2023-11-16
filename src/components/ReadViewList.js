@@ -2,7 +2,7 @@ import "./ReadViewList.css";
 
 function ReadViewListItem({ item }) {
   return (
-    <div className="ReadViewListItem">
+    <li className="ReadViewListItem">
       <img
         className="ReadViewListItem-img"
         src={item.thumbnail}
@@ -26,19 +26,15 @@ function ReadViewListItem({ item }) {
         </p>
         <p>{item.likeCount}</p>
       </div>
-    </div>
+    </li>
   );
 }
 
 function ReadViewList({ items }) {
   return (
-    <ul>
+    <ul className="ReadViewContainer">
       {items.map((item) => {
-        return (
-          <li>
-            <ReadViewListItem item={item} />
-          </li>
-        );
+        return <ReadViewListItem key= {item.writerId} item={item} />;
       })}
     </ul>
   );

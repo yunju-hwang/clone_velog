@@ -43,5 +43,20 @@
         "thumbnail" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg"
         
 
+    },
+    {
+        "writerId" : "4",
+        "title" : "scss",
+        "desc" : "about scss",
+        "content" : "scscscscscs",
+        "apoDate" : "2020",
+        "replyCount" : 4,
+        "likeCount" : 4,
+        "writerProfile" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg",
+        "tag" : "[cssss, front]",
+        "isPublic" : true,
+        "thumbnail" : "https://imagescdn.gettyimagesbank.com/500/201408/a8347467.jpg"
+        
+
     }
 ]
